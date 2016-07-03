@@ -7,7 +7,7 @@ title: Tianming's blog
 subtitle:
 description:
 author: Tianming LU
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 org:
   emacs: '/usr/bin/emacs'
@@ -80,3 +80,4 @@ deploy:
   branch: master
   message: "update"
 
+duoshuo_shortname: lutianming
